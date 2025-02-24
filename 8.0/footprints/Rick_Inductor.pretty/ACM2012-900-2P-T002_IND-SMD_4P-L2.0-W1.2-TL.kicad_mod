@@ -1,0 +1,71 @@
+(footprint "ACM2012-900-2P-T002_IND-SMD_4P-L2.0-W1.2-TL" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -3.207) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp 77a6ee1b-a8c6-4860-93f5-80e273e6321d)
+  )
+  (fp_text value "std:d2d80c33d909426db0c54e3e8e051cee" (at 0 -0.667) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp 43d2bab3-ec42-4b17-b67a-279416c0811f)
+  )
+  (fp_line (start -0.501 -0.599) (end 0.499 -0.599)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 74ec5682-ffe5-4680-b71d-b9dac262cee9))
+  (fp_line (start -0.501 0.601) (end 0.499 0.601)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 672acf9c-53d5-484b-9a47-c4c531a5999e))
+  (fp_circle (center -1 -0.6) (end -0.99 -0.6)
+    (stroke (width 0.02) (type solid)) (fill none) (layer "Eco2.User") (tstamp 21f1e914-f0b6-4bbb-ba44-6dea5d4aea46))
+  (fp_poly
+    (pts
+      (xy -0.6 -0.55)
+      (xy -0.6 -0.25)
+      (xy -1 -0.25)
+      (xy -1 -0.55)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 174483c9-ec87-4644-b8bf-f27f807c9203))
+  (fp_poly
+    (pts
+      (xy -0.6 0.251)
+      (xy -0.6 0.551)
+      (xy -1 0.551)
+      (xy -1 0.251)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 8ddd3ccf-9617-44cf-a03f-7649e9d2c3de))
+  (fp_poly
+    (pts
+      (xy 0.6 -0.249)
+      (xy 0.6 -0.549)
+      (xy 1 -0.549)
+      (xy 1 -0.249)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 975d47d8-0460-485e-a446-8b63cdbcb405))
+  (fp_poly
+    (pts
+      (xy 0.6 0.553)
+      (xy 0.6 0.253)
+      (xy 1 0.253)
+      (xy 1 0.553)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp f67b089d-0d9c-4026-9d6f-da99155e5911))
+  (fp_line (start -1 -0.6) (end 1 -0.6)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 4353eb45-58b1-48be-aed6-111f4f6f5c82))
+  (fp_line (start -1 0.6) (end -1 -0.6)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp be6f6f1b-e796-4bbb-9171-ffbadbcae28e))
+  (fp_line (start 1 -0.6) (end 1 0.6)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 439463cf-4247-4cfb-9fbe-28fdd9cde262))
+  (fp_line (start 1 0.6) (end -1 0.6)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 81422fd4-0d5f-475d-a9ac-8b19024a9518))
+  (pad "1" smd rect (at -0.901 -0.399 90) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d5068334-b74d-4378-a74d-a4f6e347226e))
+  (pad "2" smd rect (at -0.899 0.4 90) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d30a3e22-1fef-40b1-b44d-363aeb4267dc))
+  (pad "3" smd rect (at 0.9 0.4 90) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 73da0c38-0ae9-4f02-8dd9-4573495a4931))
+  (pad "4" smd rect (at 0.901 -0.4 90) (size 0.4 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6b24966-7610-4e26-baaf-01bbc2d5f413))
+  (model ":RICK_3DMODEL_DIR:Rick_Inductor/ACM2012-900-2P-T002_IND-SMD_4P-L2.0-W1.2-TL.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)

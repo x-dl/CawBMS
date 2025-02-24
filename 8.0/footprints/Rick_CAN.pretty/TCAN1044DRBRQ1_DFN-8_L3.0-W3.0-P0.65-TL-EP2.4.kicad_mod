@@ -1,0 +1,133 @@
+(footprint "TCAN1044DRBRQ1_DFN-8_L3.0-W3.0-P0.65-TL-EP2.4" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -3.207) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp e2324af2-4e90-45b5-9d26-cef16d66092d)
+  )
+  (fp_text value "std:5f62b9b94713450b9a822d7616bee810" (at 0 -0.667) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (tstamp c440f797-0ef7-462e-9259-c90604c66dd8)
+  )
+  (fp_line (start -1.576 -1.576) (end 1.576 -1.576)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp a5540c8a-19b9-4979-81c4-e4f5be25c975))
+  (fp_line (start -1.576 -1.341) (end -1.576 -1.576)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 5e5c02a0-b397-4d89-836f-cbce91e6c81d))
+  (fp_line (start -1.576 1.34) (end -1.576 1.576)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp f48b2ae0-e3af-459d-a244-e2ace8cbd67e))
+  (fp_line (start -1.576 1.576) (end 1.576 1.576)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp a8b9a3eb-3b09-4b7c-8624-0d77947df2ed))
+  (fp_line (start 1.576 -1.576) (end 1.576 -1.341)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp 65632ac8-c30f-475d-8694-fefb71c24156))
+  (fp_line (start 1.576 1.576) (end 1.576 1.34)
+    (stroke (width 0.152) (type solid)) (layer "F.SilkS") (tstamp e939880e-6bc3-40e3-b6d9-5a04540c6b54))
+  (fp_circle (center -1.905 -1.397) (end -1.83 -1.397)
+    (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp df6de0f6-227a-408f-bdbc-61335eff2e59))
+  (fp_circle (center -1.8 -0.975) (end -1.7 -0.975)
+    (stroke (width 0.2) (type solid)) (fill none) (layer "Dwgs.User") (tstamp 94a91d87-b81b-4630-b99b-edca61ec6f60))
+  (fp_circle (center -1.5 -1.5) (end -1.47 -1.5)
+    (stroke (width 0.06) (type solid)) (fill none) (layer "Eco2.User") (tstamp 3f9e440d-e1d9-45ed-ade9-21beaf7252e8))
+  (fp_poly
+    (pts
+      (xy -1.1 -1.11)
+      (xy -1.1 -0.84)
+      (xy -1.5 -0.84)
+      (xy -1.5 -1.11)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 14247d2d-a7be-4562-91ba-712449185d57))
+  (fp_poly
+    (pts
+      (xy -1.1 -0.46)
+      (xy -1.1 -0.19)
+      (xy -1.5 -0.19)
+      (xy -1.5 -0.46)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 87d5f2c8-b6fa-4faf-abfc-8d3da810b5f8))
+  (fp_poly
+    (pts
+      (xy -1.1 0.19)
+      (xy -1.1 0.46)
+      (xy -1.5 0.46)
+      (xy -1.5 0.19)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 3e16d236-cd7a-440f-80db-9b8993478c5b))
+  (fp_poly
+    (pts
+      (xy -1.1 0.84)
+      (xy -1.1 1.11)
+      (xy -1.5 1.11)
+      (xy -1.5 0.84)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 087ce1d6-8461-4cfc-a988-4918d7e1bd9f))
+  (fp_poly
+    (pts
+      (xy 0.825 -1.19)
+      (xy 0.825 1.19)
+      (xy -0.825 1.19)
+      (xy -0.825 -1.19)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp adcd2685-6635-45a1-9afc-71af4769a2a5))
+  (fp_poly
+    (pts
+      (xy 1.5 -1.11)
+      (xy 1.5 -0.84)
+      (xy 1.1 -0.84)
+      (xy 1.1 -1.11)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 3fe8bc15-2bca-4466-a31b-df60ebf70894))
+  (fp_poly
+    (pts
+      (xy 1.5 -0.46)
+      (xy 1.5 -0.19)
+      (xy 1.1 -0.19)
+      (xy 1.1 -0.46)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp ccbdf13f-550f-4489-9679-7f41d4d33810))
+  (fp_poly
+    (pts
+      (xy 1.5 0.19)
+      (xy 1.5 0.46)
+      (xy 1.1 0.46)
+      (xy 1.1 0.19)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp 7e104d31-8647-4d03-8916-fa34b5074152))
+  (fp_poly
+    (pts
+      (xy 1.5 0.84)
+      (xy 1.5 1.11)
+      (xy 1.1 1.11)
+      (xy 1.1 0.84)
+    )
+
+    (stroke (width 0.12) (type solid)) (fill solid) (layer "Eco2.User") (tstamp b0d540ba-f015-44eb-8d3c-178d8aec98ed))
+  (fp_line (start -1.5 -1.5) (end 1.5 -1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp b4ce4d1c-302d-4832-b0ee-af9b22f53954))
+  (fp_line (start -1.5 1.5) (end -1.5 -1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 782f5591-20c5-42c9-a6e2-202d794c6ee4))
+  (fp_line (start 1.5 -1.5) (end 1.5 1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 639c7a48-c891-47b2-8c7c-0c6fcc1f6abe))
+  (fp_line (start 1.5 1.5) (end -1.5 1.5)
+    (stroke (width 0.12) (type solid)) (layer "F.CrtYd") (tstamp 52a00e51-e180-4d22-b0f7-bbd549b9ac2f))
+  (pad "1" smd oval (at -1.495 -0.975) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7a0af0a4-435d-4184-8f96-860966049310))
+  (pad "2" smd oval (at -1.495 -0.325) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp dbfd4949-215a-4ae3-8686-a3b20e43bf11))
+  (pad "3" smd oval (at -1.495 0.325) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e8e5b832-3fa2-4d0d-8440-93c158874fd6))
+  (pad "4" smd oval (at -1.495 0.975) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 04d44a3e-a5d1-413c-91dc-1babb27f27cf))
+  (pad "5" smd oval (at 1.495 0.975) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a4d17e1-094e-4086-88a1-3536b158849c))
+  (pad "6" smd oval (at 1.495 0.325) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 01d608bb-4bec-4bbb-9f32-aa308e39c29a))
+  (pad "7" smd oval (at 1.495 -0.325) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 167efac3-5291-4f5a-83cc-a2bd2e4f9d62))
+  (pad "8" smd oval (at 1.495 -0.975) (size 0.84 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a712bd7a-260b-4fcc-b2a8-ac877e76e6c1))
+  (pad "9" smd rect (at 0 0) (size 1.65 2.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 142327f6-dade-45c3-b4b7-c3ce6722b7d4))
+  (model ":RICK_3DMODEL_DIR:Rick_CAN/TCAN1044DRBRQ1_DFN-8_L3.0-W3.0-P0.65-TL-EP2.4.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
