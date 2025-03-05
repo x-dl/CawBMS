@@ -1,0 +1,9 @@
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+:RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+:RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+:RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step
+Can not find model defined with enviroment variable (C:\Program Files\KiCad\share\kicad\modules\packages3d :
+:RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step
+[('Q5', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step'), ('Q4', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step'), ('Q2', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step'), ('Q1', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step')]

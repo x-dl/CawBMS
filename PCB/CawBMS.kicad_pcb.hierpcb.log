@@ -1,0 +1,138 @@
+Plugin v0.0.1 running on KiCad 9.0.0 and Python 3.11.5 (main, Jan 27 2025, 07:08:36) [MSC v.1942 64 bit (AMD64)] on win32.
+Config file C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb, with 124 footprints, 0 tracks, and 8 drawings.
+Footprint kibuzzard-67C6F3FF is not on a sheet, skipping...
+Footprint kibuzzard-6577EC0F is not on a sheet, skipping...
+Footprint kibuzzard-658FE662 is not on a sheet, skipping...
+Footprint kibuzzard-6577EBAB is not on a sheet, skipping...
+Footprint kibuzzard-6577EC47 is not on a sheet, skipping...
+Footprint kibuzzard-6582907D is not on a sheet, skipping...
+Footprint kibuzzard-65829086 is not on a sheet, skipping...
+Footprint kibuzzard-658FE679 is not on a sheet, skipping...
+/ (+ PCB C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+├─ /BQ76920/
+Missing path: kibuzzard-67C6F3FF (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-6577EC0F (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-658FE662 (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-6577EBAB (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-6577EC47 (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-6582907D (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-65829086 (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+Missing path: kibuzzard-658FE679 (C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb)
+PCB C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb
+  /7188767d/c8989813: R39
+  /7188767d/931a6110: R38
+  /7188767d/06930193: R37
+  /7188767d/51aae64d: R34
+  /7188767d/d0bf039e: Q8
+  /7188767d/37d646ed: Q6
+  /7188767d/c1b20aea: Q4
+  /7188767d/53c5a385: Q3
+  /0bbf7c3a: L2
+  /e64ad123: L1
+  /7188767d/f910d33b: D9
+  /7188767d/f67a1576: D8
+  /7188767d/c2860efc: CN5
+  /d69ce3d5: CN4
+  /63ef62f8: CN3
+  /319e13e5: CN1
+  /7188767d/c99f5481: C20
+  /7188767d/a9e95b95: C18
+  /7188767d/b0cf269b: C12
+  /8d71749c: C9
+  /a441f3b7: U3
+  /9659ab69: SW2
+  /9676ffcd: U1
+  /c3fba2aa: R1
+  /6ec0c417: C1
+  /58e901f7: C2
+  /adf16785: C10
+  /237340ee: R9
+  /5ed777ea: D1
+  /dc9adbad: D2
+  /e94cc940: R8
+  /7188767d/289280c4: H7
+  /7188767d/75a26b4d: H8
+  /7188767d/697f3c30: H5
+  /7188767d/77060278: Q10
+  /7188767d/5adde45c: C14
+  /7188767d/05c495cc: C28
+  /7188767d/cd9399ed: C27
+  /7188767d/a4494a9a: C15
+  /7188767d/02ad6587: L4
+  /7188767d/7d0964bb: L5
+  /7188767d/26abcf5b: R11
+  /7188767d/540932f8: L3
+  /7188767d/057743d4: U4
+  /7188767d/330af8c3: R36
+  /7188767d/952e074f: R28
+  /c473a25b: H3
+  /a3b89406: R6
+  /e00bd673: SW1
+  /6be03775: CN2
+  /7188767d/ef705ed7: C22
+  /7188767d/f4a648f2: R27
+  /7188767d/eae8c4a4: C16
+  /7188767d/4449d87b: R21
+  /64a88844: R4
+  /7188767d/ff248a26: Q9
+  /b2cf5c59: C7
+  /7188767d/7010e9f2: C19
+  /7188767d/4251ad34: R23
+  /7188767d/461b7662: R25
+  /7188767d/fccd549a: R13
+  /19fec9cb: H1
+  /7188767d/14297540: Q2
+  /7188767d/0e8526e7: R26
+  /7188767d/41cde640: L6
+  /dd57e901: C8
+  /7188767d/0b7e68b1: C26
+  /7188767d/937d0c7b: D6
+  /7188767d/bcf8d876: R29
+  /7188767d/32e00e7b: D12
+  /7188767d/81899ab7: C25
+  /7188767d/17198ac0: R14
+  /7188767d/dc980ed3: H6
+  /ab7edcef: C5
+  /7188767d/bc39fd64: R18
+  /f544d2c5: R2
+  /7188767d/f3b8ec11: D7
+  /d2becb84: H4
+  /9936b1db: X1
+  /7188767d/ee2a76b5: D10
+  /7188767d/75d2ca62: Q5
+  /7188767d/1a845f42: R24
+  /4bf2e93a: R3
+  /7188767d/fef25475: R22
+  /7188767d/9c2819c4: Q1
+  /555e2a12: C4
+  /7188767d/d174d24d: C23
+  /afc145e5: R10
+  /7188767d/1a364ec5: R33
+  /7188767d/59c382f6: R12
+  /7188767d/6021e9b3: SW3
+  /7188767d/72f7762f: R20
+  /7188767d/56c710d5: R32
+  /23ca652f: R5
+  /44236873: R7
+  /7188767d/1cf2cdad: C17
+  /7188767d/1fed3e3d: R19
+  /7188767d/752ee731: R16
+  /7188767d/afc5a869: R30
+  /7188767d/3654ea50: C24
+  /7188767d/0d383f53: D5
+  /f9c0fa7b: H2
+  /488b311d: C3
+  /7188767d/29e00046: D11
+  /7188767d/e1c121d0: R15
+  /dfe181f0: D3
+  /7188767d/7957a66e: Q7
+  /f57626da: C6
+  /7188767d/7db7da12: D4
+  /7188767d/e6607d84: C21
+  /7188767d/91806d79: C13
+  /7188767d/eba0aaa0: C11
+  /c7b9cfa7: U2
+  /7188767d/a1512b09: R17
+  /7188767d/70686276: R31
+  /7188767d/6ea5fd91: R35

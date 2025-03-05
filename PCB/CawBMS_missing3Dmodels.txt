@@ -1,0 +1,13 @@
+### Missing 3D models - created on 2025-03-05 12:21
+### Printed by checking_3D_models plugin
+Board file: C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS.kicad_pcb
+3D missing models written to:
+C:\Users\maryr\Desktop\CawBMS\PCB\CawBMS_missing3Dmodels.txt
+-------
+('Q5', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step')
+('Q4', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step')
+('Q2', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step')
+('Q1', ':RICK_3DMODEL_DIR:Rick_MOSFET/CSD13381F4_PICOSTAR-3_L1.0-W0.6-P0.40-S0.65-BL-1.step')
+-------
+NUM of 3D missing models:4
+checked extensions ['.stp', '.step', '.stpZ']
